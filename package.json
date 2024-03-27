@@ -1,6 +1,6 @@
 {
   "name": "node-demo-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proyecto node operaciones matematicas",
   "main": "index.js",
   "directories": {
